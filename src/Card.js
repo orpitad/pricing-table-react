@@ -36,7 +36,7 @@ const Card = ({ header, price, features }) => {
             ))}
           </ul>
           <div className="d-grid">
-            <a href="#" className="btn btn-primary text-uppercase">
+            <a href="/" className="btn btn-primary text-uppercase">
               Button
             </a>
           </div>
